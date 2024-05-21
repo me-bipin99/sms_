@@ -1,0 +1,8 @@
+  ignore _bak or _backup files its just to check same ui but messed up by me     
+
+login 
+role :admin
+username: admin
+password: admin
+
+for other roles just check Teacher & student table in admin dashboard
