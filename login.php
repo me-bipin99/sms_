@@ -111,7 +111,7 @@
 </head>
 
 <body>
-    <div class="container-login"tyle="margin-top: 40px;">
+    <div class="container-login"style="margin-top: 40px;">
         <form action="login_details.php" method="POST">
             <!-- User input -->
             <div>
